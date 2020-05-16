@@ -58,7 +58,7 @@ function printGraph(){
             labels: ["Account Management", "Tech Support", "Customer Satisfaction", "Social Media", "Communication", "Analytical Mindset", "Teamwork", "Coachability"],
             datasets: [{
                 label: 'Skills',
-                data: [90, 85, 78, 70, 50, 65, 60, 60],
+                data: [93, 95, 80, 83, 77, 80, 80, 87],
                 backgroundColor: [
                     "#d58300",
                     "#e38e00",
