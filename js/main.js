@@ -55,10 +55,10 @@ function printGraph(){
     new Chart(ctx, {
         type: 'horizontalBar',
         data: {
-            labels: ["Account Management", "Tech Support", "Customer Satisfaction", "Social Media", "Communication", "Analytical Mindset", "Teamwork", "Coachability"],
+            labels: ["Account Management", "Tech Support", "Customer Satisfaction", "Social Media", "Communication", "Time Management", "Teamwork", "Negotiation"],
             datasets: [{
                 label: 'Skills',
-                data: [93, 95, 80, 83, 77, 80, 80, 87],
+                data: [89, 93, 95, 85, 90, 93, 90, 95],
                 backgroundColor: [
                     "#d58300",
                     "#e38e00",
